@@ -5,6 +5,7 @@ PDF Viewer with Pyqt5 and pdfjs
 - PyQt5
 - python3
 - pdf.js
+- An api with voice model hosted like the one defined [here](https://huggingface.co/spaces/rushic24/Priyanka-Chopra-TTS/blob/main/api_app.py) 
 
 download the latest stable version of pdf.js from the [PDF JS Page](https://mozilla.github.io/pdf.js/getting_started/#download)
 
