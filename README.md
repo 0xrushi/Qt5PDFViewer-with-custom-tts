@@ -1,4 +1,5 @@
-# Qt5PDFViewer
+# Qt5PDFViewer-with-custom-tts
+
 PDF Viewer with Pyqt5 and pdfjs
 
 ### Requirements:
@@ -18,3 +19,10 @@ extract it to the same folder where the script is.
 ### Video demo:
 
 [![Demo](https://img.youtube.com/vi/BLYl0B5jKPA/0.jpg)](https://odysee.com/@rushi:2/Qt5PDFViewer-with-custom-tts-demo:e)
+
+
+
+**Liked my work ?**
+Please leave a star and more feature requests
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/rushiie)
